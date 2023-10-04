@@ -36,6 +36,8 @@ Read the message from the parent's pipe end, decode it, and print it.
 
 ## PROGRAM:
 ```python
+Developed by: Ganesh R
+Reg No: 212222240029
 import os
 
 def main():
